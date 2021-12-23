@@ -68,7 +68,7 @@ This is for K2 White Backlight v2 ANSI.
 - Caps Lock: pin ?
 - Num Lock: pin ?
 
-## MCU Pinout - SN32F248BF
+## MCU Pinout - SN32F268F
 ![MCU-Pins](./img/MCU_SN32F268F.png)
 
 ## Bluetooth module
