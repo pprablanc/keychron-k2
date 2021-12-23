@@ -65,7 +65,7 @@ This is for K2 White Backlight v2 ANSI.
 - Win - Android / Mac - iOS Mode: pin 27
  
 ## MCU-Diagram - Status LED indicators - K2 v2 only
-- Caps Lock: pin 43
+- Caps Lock: pin 44
 
 ## MCU Pinout - SN32F268F
 ![MCU-Pins](./img/MCU_SN32F268F.png)
