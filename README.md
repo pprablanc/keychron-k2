@@ -71,6 +71,6 @@ This is for K2 White Backlight v2 ANSI.
 ![MCU-Pins](./img/MCU_unknown_ref.png)
 
 ## Bluetooth module
-![k2-bluetooth-CYW20730.png](./img/K2-bt-CYW20730.png)
+![k2-bluetooth-CYW20730.png](./img/K2-bt-CYW20730.jpg)
 
 seems to be wired like the Blitzwolf BW-KB1(https://github.com/IslamAlam/blitzwolf-bw-kb-1)
