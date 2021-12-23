@@ -3,7 +3,7 @@
 This is partial and may or may not be completed.
 Use this information at your own discretion and risk.
 
-This is for K4 RGB v1 and v2 ANSI.
+This is for K2 White Backlight v2 ANSI.
 
 ## TODO List - QMK support
 - [ ] Ability to safely flash bootloader
@@ -20,11 +20,11 @@ This is for K4 RGB v1 and v2 ANSI.
 
 * Bt module [CYPRESS CYW20730A2KFBG](https://www.infinite-electronic.ru/datasheet/2a-CYW20730A2KFBG.pdf)
 
-![k4-bt](./img/k2-bt.png)
+![k2-bt](./img/k2-bt.png)
 
 * Charge IC - TPU5000
 
-![k4-charge](./img/k2-charge.png)
+![k2-charge](./img/k2-charge.png)
 
 ## Key Matrix & MCU
 [Keyboard Layout ](http://www.keyboard-layout-editor.com/#/gists/592bca6f73c96e2903e64c1be3a7924d)
@@ -63,14 +63,14 @@ This is for K4 RGB v1 and v2 ANSI.
 - Bluetooth / O / Cable Mode: pin ?
 - Win - Android / Mac - iOS Mode: pin ?
 
-## MCU-Diagram - Status LED indicators - K4 v2 only
+## MCU-Diagram - Status LED indicators - K2 v2 only
 - Caps Lock: pin ?
 - Num Lock: pin ?
 
 ## MCU Pinout - SN32F248BF
-![MCU-Pins](./img/MCU_SN32F248BF.png)
+![MCU-Pins](./img/MCU_unknown_ref.png)
 
 ## Bluetooth module
-![k4-bluetooth-CYW20730.png](./img/K4-bt-CYW20730.png)
+![k2-bluetooth-CYW20730.png](./img/K2-bt-CYW20730.png)
 
 seems to be wired like the Blitzwolf BW-KB1(https://github.com/IslamAlam/blitzwolf-bw-kb-1)
