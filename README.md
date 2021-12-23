@@ -14,7 +14,7 @@ This is for K2 White Backlight v2 ANSI.
 - [ ] Confirm bluetooth functionality
 
 ## Chips
-* Main MCU - HFD48KP500
+* Main MCU - HFD48KP500 
 
 ![mcu-hfd](./img/mcu-hfd.png)
 
@@ -68,7 +68,7 @@ This is for K2 White Backlight v2 ANSI.
 - Num Lock: pin ?
 
 ## MCU Pinout - SN32F248BF
-![MCU-Pins](./img/MCU_unknown_ref.png)
+![MCU-Pins](./img/MCU_SN32F268F.png)
 
 ## Bluetooth module
 ![k2-bluetooth-CYW20730.png](./img/K2-bt-CYW20730.png)
