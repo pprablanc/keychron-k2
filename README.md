@@ -20,7 +20,7 @@ This is for K2 White Backlight v2 ANSI.
 
 * Bt module [CYPRESS CYW20730A2KFBG](https://www.infinite-electronic.ru/datasheet/2a-CYW20730A2KFBG.pdf)
 
-![K2-bt](./img/k2-bt.png)
+![K2-bt](./img/K2-bt.png)
 
 * Charge IC - TPU5000
 
