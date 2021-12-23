@@ -16,7 +16,7 @@ This is for K2 White Backlight v2 ANSI.
 ## Chips
 * Main MCU - HFD48KP500
 
-![mcu-hfd](./img/mcu-hfd.png)
+![mcu-hfd](./img/mcu-hfd.jpg)
 
 * Bt module [CYPRESS CYW20730A2KFBG](https://www.infinite-electronic.ru/datasheet/2a-CYW20730A2KFBG.pdf)
 
@@ -24,7 +24,7 @@ This is for K2 White Backlight v2 ANSI.
 
 * Charge IC - TPU5000
 
-![k2-charge](./img/k2-charge.png)
+![k2-charge](./img/k2-charge.jpg)
 
 ## Key Matrix & MCU
 [Keyboard Layout ](http://www.keyboard-layout-editor.com/#/gists/592bca6f73c96e2903e64c1be3a7924d)
