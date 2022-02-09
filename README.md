@@ -6,10 +6,10 @@ Use this information at your own discretion and risk.
 This is for K2 White Backlight v2 ANSI.
 
 ## TODO List - QMK support
-- [ ] Ability to safely flash bootloader
+- [x] Ability to safely flash bootloader
 - [ ] Ability to revert to factory firmware
 - [ ] Confirm Chibios functionality
-- [ ] Get QMK Working
+- [x] Get QMK Working
 - [ ] Get LEDs working
 - [ ] Confirm bluetooth functionality
 
